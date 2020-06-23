@@ -35,7 +35,7 @@
 #define ADCFILTER_H_
 
 	//CONF
-#define ADC_SAMPLE_RATE 3 // use only odd numbers, e.g. 3, 5, 7, 9, ...
+#define ADC_SAMPLE_RATE 5 // use only odd numbers, e.g. 3, 5, 7, 9, ...
 	///////////
 #define MEDIAN_POS (ADC_SAMPLE_RATE/2)
 
